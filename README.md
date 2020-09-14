@@ -1,6 +1,6 @@
-[![forthebadge](https://forthebadge.com/images/badges/uses-brain.svg)](https://forthebadge.com)
+<img alt="" width='100%' src="god_like_cropped_by_adeeperb1ue-d7uxb3v.gif">
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
 
 [![taromaru.xyz](https://img.shields.io/badge/-TAROMARU.XYZ-000000?style=for-the-badge&logo=react&logoColor=white)](https://taromaru.xyz)
 
