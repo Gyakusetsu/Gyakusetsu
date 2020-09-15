@@ -1,4 +1,4 @@
-<img alt="" width='100%' src="god_like_cropped_by_adeeperb1ue-d7uxb3v.gif">
+<img alt="" width='100%' src="https://github.com/Gyakusetsu/Gyakusetsu/raw/master/god_like_cropped_by_adeeperb1ue-d7uxb3v.gif">
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
 
