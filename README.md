@@ -2,8 +2,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
 
-[![taromaru.xyz](https://img.shields.io/badge/-TAROMARU.XYZ-000000?style=for-the-badge&logo=react&logoColor=white)](https://taromaru.xyz)
-
 **Languages**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -50,7 +48,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Ghost](https://img.shields.io/badge/-Ghost-000000?style=flat&logo=Ghost)
 
-&#x1f4c8; **Reymar's GitHub Stats**
+&#x1f4c8; **GitHub Stats**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gyakusetsu)](https://github.com/ryo-ma/github-profile-trophy)
 
